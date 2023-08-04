@@ -9,6 +9,7 @@ import "react-toastify/dist/ReactToastify.css";
 import { notify, notify2 } from "./Utiles/Toaster";
 import Spinner from "./Utiles/Spinner";
 import Pagination from "./Pagination";
+// import Pagination from "Pagination ";
 import { productUrl } from "./Utiles/Constants/Url";
 // import { fetchdata1 } from "./redux/Slices/homeSlice";
 import { fetchdata1 } from "./redux/Actions/Action";

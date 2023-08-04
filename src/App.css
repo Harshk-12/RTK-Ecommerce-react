@@ -398,3 +398,8 @@ text-align: left;
   left: 10px;
   cursor: pointer;
 }
+
+.error-msg{
+  color: red;
+  margin-top: -10px;
+}
